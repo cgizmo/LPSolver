@@ -1,0 +1,5 @@
+#!/bin/bash
+
+java -cp .:bin:antlr-4.5-complete.jar fr.enslyon.Main $1 $2 $3 -latex > /tmp/out.tex;
+pdflatex /tmp/out.tex
+

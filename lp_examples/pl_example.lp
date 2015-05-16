@@ -1,0 +1,11 @@
+MAXIMIZE
+x+y
+SUBJECT TO
+x >= 1
+ 
+BOUNDS
+y>=0
+ 
+VARIABLES
+x
+y

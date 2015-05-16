@@ -1,0 +1,27 @@
+WS=1
+MINIMIZE=2
+MAXIMIZE=3
+SUBJECTTO=4
+BOUNDS=5
+VARIABLES=6
+END=7
+Plus=8
+Minus=9
+LessEqual=10
+GreaterEqual=11
+Equal=12
+Float=13
+Variable=14
+BlockComment=15
+LineComment=16
+'MINIMIZE'=2
+'MAXIMIZE'=3
+'SUBJECT TO'=4
+'BOUNDS'=5
+'VARIABLES'=6
+'END'=7
+'+'=8
+'-'=9
+'<='=10
+'>='=11
+'='=12
